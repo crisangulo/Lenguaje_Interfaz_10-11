@@ -1,3 +1,9 @@
+; Nombre: Alma Crispina Angulo Machado
+; Materia: Lenguajes de Interfaz
+; Horario: 10 - 11
+; Docente: Jose Luis Medina Jimenez
+; Descripcion: indice de las practicas
+
 # Índice de prácticas
 
 1. [Practica 1 cilos numericos](./Practica%201%20cilos%20numericos/main.asm)
