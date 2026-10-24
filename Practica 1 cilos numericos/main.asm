@@ -2,7 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
-
+; Descripcion: Este programa muestra el uso de la pila, el uso de la instruccion call y ret, y el uso de la instruccion loop.
 
 INCLUDE Irvine32.inc
 .data

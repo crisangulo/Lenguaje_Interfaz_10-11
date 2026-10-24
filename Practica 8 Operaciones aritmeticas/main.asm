@@ -2,7 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
-
+; Descripcion: Este programa muestra el uso de las operaciones aritmeticas, y el uso de la instruccion mul e imul.
 
 INCLUDE Irvine32.inc
 

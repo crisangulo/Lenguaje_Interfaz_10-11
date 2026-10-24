@@ -2,7 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
-
+; Descripcion: Este programa captura un mensaje del usuario y lo despliega en pantalla.
 
 
 

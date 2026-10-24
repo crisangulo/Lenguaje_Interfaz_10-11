@@ -2,7 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
-
+; Descripcion: Este programa crea un archivo de texto llamado "Inventario.txt", escribe el valor "125" en él y luego cierra el archivo. Si la operación es exitosa, muestra un mensaje de éxito; de lo contrario, muestra un mensaje de error.
 
 INCLUDE Irvine32.inc
 

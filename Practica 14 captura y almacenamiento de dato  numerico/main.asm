@@ -2,7 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
-
+; Descripcion: Este programa solicita al usuario ingresar la cantidad de unidades que llegaron (de 1 a 99) y actualiza la existencia actual de un producto. Si el usuario ingresa un valor fuera del rango permitido, se muestra un mensaje de error y se solicita nuevamente la entrada.
 
 INCLUDE Irvine32.inc
 

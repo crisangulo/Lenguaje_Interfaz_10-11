@@ -2,6 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
+; Descripcion: Este programa solicita al usuario ingresar una clave, y permite un máximo de 3 intentos para ingresar la clave correcta. Si el usuario ingresa la clave correcta, se muestra un mensaje de acceso permitido. Si el usuario agota los 3 intentos sin ingresar la clave correcta, se muestra un mensaje de sistema bloqueado.
 
 INCLUDE Irvine32.inc
 

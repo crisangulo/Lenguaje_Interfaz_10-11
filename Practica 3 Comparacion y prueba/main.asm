@@ -2,7 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
-
+; Descripcion: Este programa muestra el uso de las banderas, y el uso de la instruccion cmp y test.
 
 INCLUDE Irvine32.inc
 

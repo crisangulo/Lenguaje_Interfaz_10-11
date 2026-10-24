@@ -2,7 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
-
+; Descripcion: Este programa solicita al usuario ingresar un codigo en el formato "XXX-123", donde "XXX" son letras mayusculas y "123" son digitos. El programa valida el formato del codigo ingresado y despliega un mensaje indicando si el formato es valido o invalido, especificando el error en caso de ser invalido.
 
 
 INCLUDE Irvine32.inc

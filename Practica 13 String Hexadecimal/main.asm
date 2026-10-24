@@ -2,7 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
-
+; Descripcion: Este programa convierte un valor hexadecimal a su representación en cadena de caracteres.
 
 INCLUDE Irvine32.inc
 

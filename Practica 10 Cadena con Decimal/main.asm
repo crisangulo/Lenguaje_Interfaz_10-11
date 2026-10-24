@@ -2,7 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
-
+; Descripcion: Este programa calcula el porcentaje de avance de la descarga de un archivo, dado el tamaño total del archivo, el número de bloques descargados y el tamaño de cada bloque. Además, calcula el número de grupos completos de 1024 bytes y el residuo.
 
 INCLUDE Irvine32.inc
 

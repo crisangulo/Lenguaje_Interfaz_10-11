@@ -2,7 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
-
+; Descripcion: Este programa muestra el uso de las operaciones de desplazamiento y rotacion, y el uso de las instrucciones shl, shr, sar, rol, ror, rcl y rcr.
 
 INCLUDE Irvine32.inc
 

@@ -2,7 +2,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Horario: 10 - 11
 ; Docente: Jose Luis Medina Jimenez
-
+; Descripcion: Este programa compara dos numeros ingresados por el usuario y despliega un mensaje indicando si el primer numero es mayor, menor o igual al segundo.
 
 INCLUDE Irvine32.inc
 
