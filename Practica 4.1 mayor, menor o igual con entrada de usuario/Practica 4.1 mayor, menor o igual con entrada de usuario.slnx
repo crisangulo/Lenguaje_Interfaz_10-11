@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Practica 4.1 mayor, menor o igual con entrada de usuario.vcxproj" />
+</Solution>

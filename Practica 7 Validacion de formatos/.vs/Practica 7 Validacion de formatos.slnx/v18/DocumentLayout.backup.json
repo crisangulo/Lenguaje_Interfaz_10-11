@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lenguajes de Interfaz\\Practica 7 Validacion de formatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CB0E6C-A88F-4E73-85C8-B2AD1837546C}|Practica 7 Validacion de formatos.vcxproj|C:\\Lenguajes de Interfaz\\Practica 7 Validacion de formatos\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{37CB0E6C-A88F-4E73-85C8-B2AD1837546C}|Practica 7 Validacion de formatos.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Lenguajes de Interfaz\\Practica 7 Validacion de formatos\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Lenguajes de Interfaz\\Practica 7 Validacion de formatos\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T01:47:39.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

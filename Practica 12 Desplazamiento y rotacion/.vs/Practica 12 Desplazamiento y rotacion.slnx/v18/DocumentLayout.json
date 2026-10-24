@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lenguajes de Interfaz\\Practica 12 Desplazamiento y rotacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F952E38A-03CB-470A-B28B-090C7E94CB4C}|Practica 12 Desplazamiento y rotacion.vcxproj|C:\\Lenguajes de Interfaz\\Practica 12 Desplazamiento y rotacion\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F952E38A-03CB-470A-B28B-090C7E94CB4C}|Practica 12 Desplazamiento y rotacion.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Lenguajes de Interfaz\\Practica 12 Desplazamiento y rotacion\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Lenguajes de Interfaz\\Practica 12 Desplazamiento y rotacion\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T02:27:24.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

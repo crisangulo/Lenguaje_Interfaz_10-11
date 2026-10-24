@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lenguajes de Interfaz\\Practica 9 Push y Pop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Lenguajes de Interfaz\\Practica 1 cilos numericos\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD097A2-CD9D-42B4-A18F-7E295F89C83A}|Practica 9 Push y Pop.vcxproj|C:\\Lenguajes de Interfaz\\Practica 9 Push y Pop\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DCD097A2-CD9D-42B4-A18F-7E295F89C83A}|Practica 9 Push y Pop.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Lenguajes de Interfaz\\Practica 1 cilos numericos\\main.asm",
+              "RelativeDocumentMoniker": "..\\Practica 1 cilos numericos\\main.asm",
+              "ToolTip": "C:\\Lenguajes de Interfaz\\Practica 1 cilos numericos\\main.asm",
+              "RelativeToolTip": "..\\Practica 1 cilos numericos\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T02:15:43.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Lenguajes de Interfaz\\Practica 9 Push y Pop\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Lenguajes de Interfaz\\Practica 9 Push y Pop\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T02:15:33.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
